@@ -19,10 +19,11 @@ I am a researcher at the **University of California, Irvine**, working at the in
 - 🔬 I have experience across both **wet-lab experimentation and computational biology**
 - 📍 Based in Irvine, California
 
+---
+
 ### 🚀 Featured Projects
 
-#### 🧬 COMPACT
-An in silico gene-module perturbation framework for predicting how targeted interventions reshape cellular states and gene-regulatory networks.
+🧬 ***COMPACT*** : An in silico gene-module perturbation framework for predicting how targeted interventions reshape cellular states and gene-regulatory networks.
 
 #### Programming and Infrastructure
 
@@ -40,7 +41,7 @@ An in silico gene-module perturbation framework for predicting how targeted inte
   <a href="https://rootze.github.io/">
     <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=googlechrome" />
   </a>
-  <a href="mailto:tristanzeshi@gmail.com">
+  <!-- <a href="mailto:tristanzeshi@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
-  </a>
+  </a> -->
 </p>
