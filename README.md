@@ -15,7 +15,7 @@ I am a researcher at the **University of California, Irvine**, working at the in
 - 🧬 I work on **functional genomics, single-cell biology, and multi-omics**
 - 🤖 I develop **AI and computational models for biological perturbation**
 - 🧠 I study **Alzheimer’s disease, neurodegeneration, and cellular state transitions**
-- 💊 I am working on a **pharmacogenomics project with CABS during Summer 2026**
+- 💊 I am working on a **PharmaInformatics project with CABS during Summer 2026**
 - 🔬 I have experience across both **wet-lab experimentation and computational biology**
 - 📍 Based in Irvine, California
 
@@ -23,10 +23,6 @@ I am a researcher at the **University of California, Irvine**, working at the in
 
 #### 🧬 COMPACT
 An in silico gene-module perturbation framework for predicting how targeted interventions reshape cellular states and gene-regulatory networks.
-
-#### 💊 Pharmacogenomics — CABS
-Working with CABS during Summer 2026 on computational approaches to drug-response analysis and therapeutic discovery.
-
 
 #### Programming and Infrastructure
 
