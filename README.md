@@ -10,14 +10,14 @@
 
 ### Experimental & Computational Biologist | Functional Genomics | Perturbation Biology | AI for Science
 
-I am a researcher at the **University of California, Irvine**, working at the intersection of experimental biology, computational genomics, and artificial intelligence. My research focuses on understanding how gene-regulatory programs shape cellular states and how computational perturbation models can identify potential therapeutic interventions. I develop methods that integrate single-cell genomics, multi-omics, regulatory networks, and machine learning to study neurodegeneration and other complex diseases.
+I am a computational biologist at the **University of California, Irvine**, working at the intersection of experimental biology, computational genomics, and artificial intelligence. My research focuses on understanding how gene-regulatory programs shape cellular states and how computational perturbation models can identify potential therapeutic interventions. I develop methods that integrate single-cell genomics, multi-omics, regulatory networks, and machine learning to study neurodegeneration and other complex diseases.
 
 - 🧬 I work on **functional genomics, single-cell biology, and multi-omics**
 - 🤖 I develop **AI and computational models for biological perturbation**
 - 🧠 I study **Alzheimer’s disease, neurodegeneration, and cellular state transitions**
-- 💊 I am working on a **PharmaInformatics project with CABS during Summer 2026**
 - 🔬 I have experience across both **wet-lab experimentation and computational biology**
 - 📍 Based in Irvine, California
+<!-- - 💊 I am working on a **PharmaInformatics project with CABS during Summer 2026** -->
 
 ---
 
